@@ -1,0 +1,143 @@
+[
+    {
+        "question": "Find the department with the most employees.",
+        "norm_question": "find the department with the most employees.",
+        "db_id": "hospital_1",
+        "sql": "SELECT name FROM department GROUP BY departmentID ORDER BY count(departmentID) DESC LIMIT 1",
+        "norm_sql": "select name from department group by departmentid order by count( departmentid ) desc limit 1"
+    }, 
+    {
+        "question": "Tell me the employee id of the head of the department with the least employees.",
+        "norm_question": "tell me the employee id of the head of the department with the least employees.",
+        "db_id": "hospital_1",
+        "sql": "SELECT head FROM department GROUP BY departmentID ORDER BY count(departmentID) LIMIT 1",
+        "norm_sql": "select head from department group by departmentid order by count( departmentid ) limit 1"
+    },
+    {
+        "question": "Find the name and position of the head of the department with the least employees.",
+        "norm_question": "find the name and position of the head of the department with the least employees.",
+        "db_id": "hospital_1",
+        "sql": "SELECT T2.name ,  T2.position FROM department AS T1 JOIN physician AS T2 ON T1.head  =  T2.EmployeeID GROUP BY departmentID ORDER BY count(departmentID) LIMIT 1",
+        "norm_sql": "select physician.name ,  physician.position from department join physician on department.head  =  physician.employeeid group by departmentid order by count( departmentid ) limit 1"
+   
+    },
+    {
+        "question": "What are the names of the students who took classes in 2009 or 2010?",
+        "norm_question": "what are the names of the students who took classes in 2009 or 2010?",
+        "db_id": "college_2",
+        "sql": "SELECT DISTINCT T1.name FROM student AS T1 JOIN takes AS T2 ON T1.id  =  T2.id WHERE YEAR  =  2009 OR YEAR  =  2010",
+        "norm_sql": "select distinct student.name from student join takes on student.id = takes.id where year = 2009 or year = 2010"
+    },
+    {
+        "question": "What is the name of the department with the most credits?",
+        "norm_question": "what is the name of the department with the most credits?",
+        "db_id": "college_2",
+        "sql": "SELECT dept_name FROM course GROUP BY dept_name ORDER BY sum(credits) DESC LIMIT 1",
+        "norm_sql": "select dept_name from course group by dept_name order by sum( credits ) desc limit 1"
+    },
+    {
+        "question": "Count the number of courses without prerequisites.",
+        "norm_question": "count the number of courses without prerequisites.",
+        "db_id": "college_2",
+        "sql": "SELECT count(*) FROM course WHERE course_id NOT IN (SELECT course_id FROM prereq)",
+        "norm_sql": "select count( * ) from course where course_id not in (select course_id from prereq)"
+    },
+    {
+        "question": "What are the names of instructors who did not teach courses in the Spring?",
+        "norm_question": "what are the names of instructors who did not teach courses in the spring?",
+        "db_id": "college_2",
+        "sql": "SELECT name FROM instructor WHERE id NOT IN (SELECT id FROM teaches WHERE semester  =  'Spring')",
+        "norm_sql": "select name from instructor where id not in (select id from teaches where semester = 'Spring')"
+    },
+    {
+        "question": "How many instructors are in the department with the highest budget?",
+        "norm_question": "how many instructors are in the department with the highest budget?",
+        "db_id": "college_2",
+        "sql": "SELECT count(*) FROM instructor AS T1 JOIN department AS T2 ON T1.dept_name  =  T2.dept_name ORDER BY T2.budget DESC LIMIT 1",
+        "norm_sql": "select count( * ) from instructor join department on instructor.dept_name = department.dept_name order by department.budget desc limit 1"
+    },
+    {
+        "question": "Show the names of people who have been on the negative side of debates at least twice.",
+        "norm_question": "show the names of people who have been on the negative side of debates at least twice.",
+        "db_id": "debate",
+        "sql": "SELECT T2.Name FROM debate_people AS T1 JOIN people AS T2 ON T1.Negative  =  T2.People_ID GROUP BY T2.Name HAVING COUNT(*)  >=  2",
+        "norm_sql": "select people.name from debate_people join people on debate_people.negative = people.people_id group by people.name having count( * ) >= 2"
+    },
+    {
+        "question": "What are the distinct types of the companies that have operated any flights with velocity less than 200?",
+        "norm_question": "what are the distinct types of the companies that have operated any flights with velocity less than 200?",
+        "db_id": "flight_company",
+        "sql": "SELECT DISTINCT T1.type FROM operate_company AS T1 JOIN flight AS t2 ON T1.id  =  T2.company_id WHERE T2.velocity  <  200",
+        "norm_sql": "select distinct operate_company.type from operate_company join flight on operate_company.id = flight.company_id where flight.velocity < 200"
+    },
+    {
+        "question": "How many flights did each of these companies operate?",
+        "norm_question": "how many flights did each of these companies operate?",
+        "db_id": "flight_company",
+        "sql": "SELECT t1.name, count(*) FROM operate_company AS t1 JOIN flight AS t2 ON t1.id = t2.company_id GROUP BY t1.id",
+        "norm_sql": "select operate_company.name, count( * ) from operate_company join flight on operate_company.id = flight.company_id group by operate_company.id"
+    },
+    {
+        "question": "Which airport had the most number of flights?",
+        "norm_question": "which airport had the most number of flights?",
+        "db_id": "flight_company",
+        "sql": "SELECT t1.name FROM airport as t1 JOIN flight AS t2 ON t1.id = t2.airport_id  GROUP BY t1.id ORDER BY count(*) DESC LIMIT 1",
+        "norm_sql": "select airport.name from airport join flight on airport.id = flight.airport_id group by airport.id order by count( * ) desc limit 1"
+    },
+    {
+        "question": "What is the id, name and IATA code of the airport that had most number of flights?",
+        "norm_question": "what is the id, name and iata code of the airport that had most number of flights?",
+        "db_id": "flight_company",
+        "sql": "SELECT T1.id, T1.name, T1.IATA FROM airport as t1 JOIN flight AS t2 ON t1.id = t2.airport_id  GROUP BY t1.id ORDER BY count(*) DESC LIMIT 1",
+        "norm_sql": "select airport.id, airport.name, airport.iata from airport join flight on airport.id = flight.airport_id  group by airport.id order by count( * ) desc limit 1"
+    },
+    {
+        "question": "List the object number of railways that do not have any trains.",
+        "norm_question": "list the object number of railways that do not have any trains.",
+        "db_id": "railway",
+        "sql": "SELECT ObjectNumber FROM railway WHERE Railway_ID NOT IN (SELECT Railway_ID FROM train)",
+        "norm_sql": "select objectnumber from railway where railway_id not in (select railway_id from train)"
+    },
+    {
+        "question": "For each language group in order, what is the average duration value of the songs in the group?",
+        "norm_question": "for each language group in order, what is the average duration value of the songs in the group?",
+        "db_id": "music_1",
+        "sql": "SELECT avg(T1.duration) FROM files AS T1 JOIN song AS T2 ON T1.f_id  =  T2.f_id GROUP BY T2.languages ORDER BY T2.languages",
+        "norm_sql": "select avg(files.duration) from files join song on files.f_id = song.f_id group by song.languages order by song.languages"
+    },
+    {
+        "question": "Find the names of all reviewers who rated Gone with the Wind.",
+        "norm_question": "find the names of all reviewers who rated gone with the wind.",
+        "db_id": "movie_1",
+        "sql": "SELECT DISTINCT T3.name FROM Rating AS T1 JOIN Movie AS T2 ON T1.mID  =  T2.mID JOIN Reviewer AS T3 ON T1.rID  =  T3.rID WHERE T2.title  =  'Gone with the Wind'",
+        "norm_sql": "select distinct reviewer.name from rating join movie on rating.mid = movie.mid join reviewer on rating.rid = reviewer.rid where movie.title = 'gone with the wind'"
+    },
+    {
+        "question": "Find the names of all directors whose movies are rated by Sarah Martinez",
+        "norm_question": "find the names of all directors whose movies are rated by sarah martinez.",
+        "db_id": "movie_1",
+        "sql": "SELECT DISTINCT T2.director FROM Rating AS T1 JOIN Movie AS T2 ON T1.mID  =  T2.mID JOIN Reviewer AS T3 ON T1.rID  =  T3.rID WHERE T3.name  =  'Sarah Martinez'",
+        "norm_sql": "select distinct movie.director from rating join movie on rating.mid = movie.mid join reviewer on rating.rid = reviewer.rid where reviewer.name = 'Sarah Martinez'"
+    },
+    {
+        "question": "Show me the directors who directed more than one movie.",
+        "norm_question": "show me the directors who directed more than one movie.",
+        "db_id": "movie_1",
+        "sql": "SELECT director FROM Movie group by director having count(*) > 1",
+        "norm_sql": "select director from movie group by director having count( * ) > 1"
+    },
+    {
+        "question": "What are the names and years of the movies that has the top 3 highest rating star?",
+        "norm_question": "What are the names and years of the movies that has the top 3 highest rating star?",
+        "db_id": "movie_1",
+        "sql": "SELECT T2.title ,  T2.year FROM Rating AS T1 JOIN Movie AS T2 ON T1.mID  =  T2.mID ORDER BY T1.stars DESC LIMIT 3",
+        "norm_sql": "select movie.title ,  movie.year from rating join movie on rating.mid  =  movie.mid order by rating.stars desc limit 3"
+    },
+    {
+        "question": "Show institution types, along with the number of institutions and total enrollment for each type.",
+        "norm_question": "show institution types, along with the number of institutions and total enrollment for each type.",
+        "db_id": "protein_institute",
+        "sql": "SELECT TYPE ,  count(*) ,  sum(enrollment) FROM institution GROUP BY TYPE",
+        "norm_sql": "select type ,  count( * ) ,  sum( enrollment ) from institution group by type"
+    }
+]

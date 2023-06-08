@@ -1,0 +1,1034 @@
+how many singers do we have ?
+what is the total number of singers ?
+show name , country , age for all singers ordered by age from the oldest to the youngest .
+what are the names , countries , and ages for every singer in descending order of age ?
+what is the average , minimum , and maximum age of all singers from france ?
+what is the average , minimum , and maximum age for all french singers ?
+show the name and the release year of the song by the youngest singer .
+what are the names and release years for all the songs of the youngest singer ?
+what are all distinct countries where singers above age 20 are from ?
+what are the different countries with singers above age 20 ?
+show all countries and the number of singers in each country .
+how many singers are from each country ?
+list all song names by singers above the average age .
+what are all the song names by singers who are older than average ?
+show location and name for all stadiums with a capacity between 5000 and 10000 .
+what are the locations and names of all stations with capacity between 5000 and 10000 ?
+what is the average and the maximum capacity of all stadiums ?
+what is the average and maximum capacities for all stations ?
+what is the name and capacity for the stadium with highest average attendance ?
+what is the name and capacity for the stadium with the highest average attendance ?
+how many concerts are there in year 2014 or 2015 ?
+how many concerts occurred in 2014 or 2015 ?
+show the stadium name and the number of concerts in each stadium .
+for each stadium , how many concerts play there ?
+show the stadium name and capacity with most number of concerts in year 2014 or after .
+what is the name and capacity of the stadium with the most concerts after 2013 ?
+which year has most number of concerts ?
+what is the year that had the most concerts ?
+show the stadium names without any concert .
+what are the names of the stadiums without any concerts ?
+show countries where a singer above age 40 and a singer below 30 are from .
+show names for all stadiums except for stadiums having a concert in year 2014 .
+what are the names of all stadiums that did not have a concert in 2014 ?
+show the name and theme for all concerts and the number of singers in each concert .
+what are the names , themes , and number of singers for each and every concert ?
+list singer names and number of concerts for each singer .
+what are the names of the singers and number of concerts for each person ?
+list all singer names in concerts in year 2014 .
+what are the names of the singers who performed in a concert in 2014 ?
+what is the name and nation of the singer who have a song having 'hey' in its name ?
+what is the name and country of origin of every singer who has a song with the word 'hey' in its title ?
+find the name and location of the stadiums which some concerts happened in the years of both 2014 and 2015 .
+what are the names and locations of the stadiums that had concerts that occurred in both 2014 and 2015 ?
+find the number of concerts happened in the stadium with the highest capacity .
+what are the number of concerts that occurred in the stadium with the largest capacity ?
+find the number of pets whose weight is heavier than 10 .
+how many pets have a greater weight than 10 ?
+find the weight of the youngest dog .
+how much does the youngest dog weigh ?
+find the maximum weight for each type of pet . list the maximum weight and pet type .
+list the maximum weight and type for each type of pet .
+find number of pets owned by students who are older than 20 .
+how many pets are owned by students that have an age greater than 20 ?
+find the number of dog pets that are raised by female students ( with sex f ) .
+how many dog pets are raised by female students ?
+find the number of distinct type of pets .
+how many different types of pet are there ?
+find the first name of students who have cat or dog pet .
+what are the first names of every student who has a cat or dog as a pet ?
+find the name of students who have both cat and dog pets .
+what are the students' first names who have both cats and dogs as pets ?
+find the major and age of students who do not have a cat pet .
+what major is every student who does not own a cat as a pet , and also how old are they ?
+find the id of students who do not have a cat pet .
+what are the ids of the students who do not own cats as pets ?
+find the first name and age of students who have a dog but do not have a cat as a pet .
+what is the first name of every student who has a dog but does not have a cat ?
+find the type and weight of the youngest pet .
+what type of pet is the youngest animal , and how much does it weigh ?
+find the id and weight of all pets whose age is older than 1 .
+what is the id and weight of every pet who is older than 1 ?
+find the average and maximum age for each type of pet .
+what is the average and maximum age for each pet type ?
+find the average weight for each pet type .
+what is the average weight for each type of pet ?
+find the first name and age of students who have a pet .
+what are the different first names and ages of the students who do have pets ?
+find the id of the pet owned by student whose last name is ‘smith’ .
+what is the id of the pet owned by the student whose last name is 'smith' ?
+find the number of pets for each student who has any pet and student id .
+for students who have pets , how many pets does each student have ?
+find the first name and gender of student who have more than one pet .
+what is the first name and gender of the all the students who have more than one pet ?
+find the last name of the student who has a cat that is age 3 .
+what is the last name of the student who has a cat that is 3 years old ?
+find the average age of students who do not have any pet .
+what is the average age for all students who do not own any pets ?
+how many continents are there ?
+what is the number of continents ?
+how many countries does each continent have ? list the continent id , continent name and the number of countries .
+for each continent , list its id , name , and how many countries it has ?
+how many countries are listed ?
+how many countries exist ?
+how many models does each car maker produce ? list maker full name , id and the number .
+what is the full name of each car maker , along with its id and how many models it produces ?
+which model of the car has the minimum horsepower ?
+what is the model of the car with the smallest amount of horsepower ?
+find the model of the car whose weight is below the average weight .
+what is the model for the car with a weight smaller than the average ?
+find the name of the makers that produced some cars in the year of 1970 ?
+what is the name of the different car makers who produced a car in 1970 ?
+find the make and production time of the cars that were produced in the earliest year ?
+what is the maker of the carr produced in the earliest year and what year was it ?
+which distinct car models are the produced after 1980 ?
+what are the different models for the cards produced after 1980 ?
+how many car makers are there in each continents ? list the continent name and the count .
+what is the name of each continent and how many car makers are there in each one ?
+which of the countries has the most car makers ? list the country name .
+what is the name of the country with the most car makers ?
+how many car models are produced by each maker ? list the count and the maker full name .
+what is the number of car models that are produced by each maker and what is the id and full name of each maker ?
+what is the accelerate of the car make amc hornet sportabout ( sw ) ?
+how much does the car accelerate that makes amc hornet sportabout ( sw ) ?
+how many car makers are there in france ?
+what is the number of makers of care in france ?
+how many car models are produced in the usa ?
+what is the count of the car models produced in the united states ?
+what is the average miles per gallon ( mpg ) of the cars with 4 cylinders ?
+what is the average miles per gallon of all the cards with 4 cylinders ?
+what is the smallest weight of the car produced with 8 cylinders on 1974 ?
+what is the minimu weight of the car with 8 cylinders produced in 1974 ?
+what are all the makers and models ?
+what are the makers and models ?
+what are the countries having at least one car maker ? list name and id .
+what are the names and ids of all countries with at least one car maker ?
+what is the number of the cars with horsepower more than 150 ?
+what is the number of cars with a horsepower greater than 150 ?
+what is the average weight of cars each year ?
+what is the average weight and year for each year ?
+which countries in europe have at least 3 car manufacturers ?
+what are the names of all european countries with at least 3 manufacturers ?
+what is the maximum horsepower and the make of the car models with 3 cylinders ?
+what is the largest amount of horsepower for the models with 3 cylinders and what make is it ?
+which model saves the most gasoline ? that is to say , have the maximum miles per gallon .
+what is the car wmodel with the highest mpg ?
+what is the average horsepower of the cars before 1980 ?
+what is the average horsepower for all cards produced before 1980 ?
+what is the average edispl of the cars of model volvo ?
+what is the average edispl for all volvos ?
+what is the maximum accelerate for different number of cylinders ?
+what is the maximum accelerate for all the different cylinders ?
+which model has the most version ( make ) of cars ?
+what model has the most different versions ?
+how many cars have more than 4 cylinders ?
+what is the number of cars with more than 4 cylinders ?
+how many cars were produced in 1980 ?
+in 1980 , how many cars were made ?
+how many car models were produced by the maker with full name american motor company ?
+what is the number of car models created by the car maker american motor company ?
+which makers designed more than 3 car models ? list full name and the id .
+what are the names and ids of all makers with more than 3 models ?
+which distinctive models are produced by maker with the full name general motors or weighing more than 3500 ?
+what are the different models created by either the car maker general motors or weighed more than 3500 ?
+in which years cars were produced weighing no less than 3000 and no more than 4000 ?
+what are the different years in which there were cars produced that weighed less than 4000 and also cars that weighted more than 3000 ?
+what is the horsepower of the car with the largest accelerate ?
+what is the horsepower of the car with the greatest accelerate ?
+for model volvo , how many cylinders does the car with the least accelerate have ?
+for a volvo model , how many cylinders does the version with least accelerate have ?
+how many cars have a larger accelerate than the car with the largest horsepower ?
+what is the number of cars with a greater accelerate than the one with the most horsepower ?
+how many countries has more than 2 car makers ?
+what is the number of countries with more than 2 car makers ?
+how many cars has over 6 cylinders ?
+what is the number of carsw ith over 6 cylinders ?
+for the cars with 4 cylinders , which model has the largest horsepower ?
+for all of the 4 cylinder cars , which model has the most horsepower ?
+among the cars with more than lowest horsepower , which ones do not have more than 3 cylinders ? list the car makeid and make name .
+among the cars that do not have the minimum horsepower , what are the make ids and names of al those with less than 4 cylinders ?
+what is the maximum miles per gallon of the car with 8 cylinders or produced before 1980 ?
+what is the maximum mpg of the cars that had 8 cylinders or that were produced before 1980 ?
+which models are lighter than 3500 but not built by the 'ford motor company' ?
+what are the different models wthat are lighter than 3500 but were not built by the ford motor company ?
+what are the name of the countries where there is not a single car maker ?
+what are the names of the countries with no car makers ?
+which are the car makers which produce at least 2 models and more than 3 car makes ? list the id and the maker .
+what are the ids and makers of all car makers that produce at least 2 models and make more than 3 cars ?
+what are the id and names of the countries which have more than 3 car makers or produce the 'fiat' model ?
+what are the ids and names of all countries that either have more than 3 car makers or produce fiats ?
+which country does airline "jetblue airways" belong to ?
+what country is jetblue airways affiliated with ?
+what is the abbreviation of airline "jetblue airways" ?
+which abbreviation corresponds to jetblue airways ?
+list all airline names and their abbreviations in "usa" .
+what are the airline names and abbreviations for airlines in the usa ?
+list the airport code and name in the city of anthony .
+give the airport code and airport name corresonding to the city anthony .
+how many airlines do we have ?
+what is the total number of airlines ?
+how many airports do we have ?
+return the number of airports .
+how many flights do we have ?
+return the number of flights .
+which airline has abbreviation 'ual' ?
+give the airline with abbreviation 'ual' .
+how many airlines are from usa ?
+return the number of airlines in the usa .
+which city and country is the alton airport at ?
+give the city and country for the alton airport .
+what is the airport name for airport 'ako' ?
+return the name of the airport with code 'ako' .
+what are airport names at city 'aberdeen' ?
+what are the names of airports in aberdeen ?
+how many flights depart from 'apg' ?
+count the number of flights departing from 'apg' .
+how many flights have destination ato ?
+count the number of flights into ato .
+how many flights depart from city aberdeen ?
+return the number of flights departing from aberdeen .
+how many flights arriving in aberdeen city ?
+return the number of flights arriving in aberdeen .
+how many flights depart from city 'aberdeen' and have destination city 'ashley' ?
+how many flights fly from aberdeen to ashley ?
+how many flights does airline 'jetblue airways' have ?
+give the number of jetblue airways flights .
+how many 'united airlines' flights go to airport 'asy' ?
+count the number of united airlines flights arriving in asy airport .
+how many 'united airlines' flights depart from airport 'ahd' ?
+return the number of united airlines flights leaving from ahd airport .
+how many united airlines flights go to city 'aberdeen' ?
+count the number of united airlines flights that arrive in aberdeen .
+which city has most number of arriving flights ?
+which city has the most frequent destination airport ?
+which city has most number of departing flights ?
+which city is the most frequent source airport ?
+what is the code of airport that has the highest number of flights ?
+what is the airport code of the airport with the most flights ?
+what is the code of airport that has fewest number of flights ?
+give the code of the airport with the least flights .
+which airline has most number of flights ?
+what airline serves the most flights ?
+find the abbreviation and country of the airline that has fewest number of flights ?
+what is the abbreviation of the airilne has the fewest flights and what country is it in ?
+what are airlines that have some flight departing from airport 'ahd' ?
+which airlines have a flight with source airport ahd ?
+what are airlines that have flights arriving at airport 'ahd' ?
+which airlines have a flight with destination airport ahd ?
+find all airlines that have flights from both airports 'apg' and 'cvo' .
+which airlines have departing flights from both apg and cvo airports ?
+find all airlines that have flights from airport 'cvo' but not from 'apg' .
+which airlines have departures from cvo but not from apg airports ?
+find all airlines that have at least 10 flights .
+which airlines have at least 10 flights ?
+find all airlines that have fewer than 200 flights .
+which airlines have less than 200 flights ?
+what are flight numbers of airline "united airlines" ?
+which flight numbers correspond to united airlines flights ?
+what are flight numbers of flights departing from airport "apg" ?
+give the flight numbers of flights leaving from apg .
+what are flight numbers of flights arriving at airport "apg" ?
+give the flight numbers of flights landing at apg .
+what are flight numbers of flights departing from city "aberdeen " ?
+give the flight numbers of flights leaving from aberdeen .
+what are flight numbers of flights arriving at city "aberdeen" ?
+give the flight numbers of flights arriving in aberdeen .
+find the number of flights landing in the city of aberdeen or abilene .
+how many flights land in aberdeen or abilene ?
+find the name of airports which do not have any flight in and out .
+which airports do not have departing or arriving flights ?
+how many employees are there ?
+count the number of employees
+sort employee names by their age in ascending order .
+list the names of employees and sort in ascending order of age .
+what is the number of employees from each city ?
+count the number of employees for each city .
+which cities do more than one employee under age 30 come from ?
+find the cities that have more than one employee under age 30 .
+find the number of shops in each location .
+how many shops are there in each location ?
+find the manager name and district of the shop whose number of products is the largest .
+what are the manager name and district of the shop that sells the largest number of products ?
+find the minimum and maximum number of products of all stores .
+what are the minimum and maximum number of products across all the shops ?
+return the name , location and district of all shops in descending order of number of products .
+sort all the shops by number products in descending order , and return the name , location and district of each shop .
+find the names of stores whose number products is more than the average number of products .
+which shops' number products is above the average ? give me the shop names .
+find the name of employee who was awarded the most times in the evaluation .
+which employee received the most awards in evaluations ? give me the employee name .
+find the name of the employee who got the highest one time bonus .
+which employee received the biggest bonus ? give me the employee name .
+find the names of employees who never won any award in the evaluation .
+what are the names of the employees who never received any evaluation ?
+what is the name of the shop that is hiring the largest number of employees ?
+which shop has the most employees ? give me the shop name .
+find the name of the shops that do not hire any employee .
+which shops run with no employees ? find the shop names
+find the number of employees hired in each shop ; show the shop name as well .
+for each shop , return the number of employees working there and the name of the shop .
+what is total bonus given in all evaluations ?
+find the total amount of bonus given in all the evaluations .
+give me all the information about hiring .
+what is all the information about hiring ?
+which district has both stores with less than 3000 products and stores with more than 10000 products ?
+find the districts in which there are both shops selling less than 3000 products and shops selling more than 10000 products .
+how many different store locations are there ?
+count the number of distinct store locations .
+how many documents do we have ?
+count the number of documents .
+list document ids , document names , and document descriptions for all documents .
+what are the ids , names , and descriptions for all documents ?
+what is the document name and template id for document with description with the letter 'w' in it ?
+return the names and template ids for documents that contain the letter w in their description .
+what is the document id , template id and description for document named "robbin cv" ?
+return the document id , template id , and description for the document with the name robbin cv .
+how many different templates do all document use ?
+count the number of different templates used for documents .
+how many documents are using the template with type code 'ppt' ?
+count the number of documents that use the ppt template type .
+show all template ids and number of documents using each template .
+what are all different template ids used for documents , and how many times were each of them used ?
+what is the id and type code for the template used by the most documents ?
+return the id and type code of the template that is used for the greatest number of documents .
+show ids for all templates that are used by more than one document .
+what are the template ids of any templates used in more than a single document ?
+show ids for all templates not used by any document .
+what are the ids for templates that are not used in any documents ?
+how many templates do we have ?
+count the number of templates .
+show template ids , version numbers , and template type codes for all templates .
+what are the ids , version numbers , and type codes for each template ?
+show all distinct template type codes for all templates .
+what are the different template type codes ?
+what are the ids of templates with template type code pp or ppt ?
+return the ids of templates that have the code pp or ppt .
+how many templates have template type code cv ?
+count the number of templates of the type cv .
+what is the version number and template type code for the template with version number later than 5 ?
+return the version numbers and template type codes of templates with a version number greater than 5 .
+show all template type codes and number of templates for each .
+what are the different template type codes , and how many templates correspond to each ?
+which template type code has most number of templates ?
+return the type code of the template type that the most templates belong to .
+show all template type codes with less than three templates .
+what are the codes of template types that have fewer than 3 templates ?
+what the smallest version number and its template type code ?
+return the lowest version number , along with its corresponding template type code .
+what is the template type code of the template used by document with the name "data base" ?
+return the template type code of the template that is used by a document named data base .
+show all document names using templates with template type code bk .
+what are the names of documents that use templates with the code bk ?
+show all template type codes and the number of documents using each type .
+what are the different template type codes , and how many documents use each type ?
+which template type code is used by most number of documents ?
+return the code of the template type that is most commonly used in documents .
+show all template type codes that are not used by any document .
+what are the codes of template types that are not used for any document ?
+show all template type codes and descriptions .
+what are the type codes and descriptions for all template types ?
+what is the template type descriptions for template type code "ad" .
+return the template type description of the template type with the code ad .
+what is the template type code for template type description "book" .
+return the type code of the template type with the description "book" .
+what are the distinct template type descriptions for the templates ever used by any document ?
+return the different descriptions for templates that have been used in a document .
+what are the template ids with template type description "presentation" .
+return the ids corresponding to templates with the description 'presentation' .
+how many paragraphs in total ?
+count the number of paragraphs .
+how many paragraphs for the document with name 'summer show' ?
+count the number of paragraphs in the document named 'summer show' .
+show paragraph details for paragraph with text 'korea' .
+what are the details for the paragraph that includes the text 'korea' ?
+show all paragraph ids and texts for the document with name 'welcome to ny' .
+what are the ids and texts of paragraphs in the document titled 'welcome to ny' ?
+show all paragraph texts for the document "customer reviews" .
+what are the paragraph texts for the document with the name 'customer reviews' ?
+show all document ids and the number of paragraphs in each document . order by document id .
+return the different document ids along with the number of paragraphs corresponding to each , ordered by id .
+show all document ids , names and the number of paragraphs in each document .
+what are the ids and names of each document , as well as the number of paragraphs in each ?
+list all document ids with at least two paragraphs .
+what are the ids of documents that have 2 or more paragraphs ?
+what is the document id and name with greatest number of paragraphs ?
+return the id and name of the document with the most paragraphs .
+what is the document id with least number of paragraphs ?
+return the id of the document with the fewest paragraphs .
+what is the document id with 1 to 2 paragraphs ?
+give the ids of documents that have between one and two paragraphs .
+show the document id with paragraph text 'brazil' and 'ireland' .
+what are the ids of documents that contain the paragraph text 'brazil' and 'ireland' ?
+how many teachers are there ?
+what is the total count of teachers ?
+list the names of teachers in ascending order of age .
+what are the names of the teachers ordered by ascending age ?
+what are the age and hometown of teachers ?
+what is the age and hometown of every teacher ?
+list the name of teachers whose hometown is not "little lever urban district" .
+what are the names of the teachers whose hometown is not "little lever urban district" ?
+show the name of teachers aged either 32 or 33 ?
+what are the names of the teachers who are aged either 32 or 33 ?
+what is the hometown of the youngest teacher ?
+where is the youngest teacher from ?
+show different hometown of teachers and the number of teachers from each hometown .
+for each hometown , how many teachers are there ?
+list the most common hometown of teachers .
+what is the most commmon hometowns for teachers ?
+show the hometowns shared by at least two teachers .
+what are the towns from which at least two teachers come from ?
+show names of teachers and the courses they are arranged to teach .
+what is the name of each teacher and what course they teach ?
+show names of teachers and the courses they are arranged to teach in ascending alphabetical order of the teacher 's name .
+what are the names of the teachers and the courses they teach in ascending alphabetical order by the name of the teacher ?
+show the name of the teacher for the math course .
+what are the names of the people who teach math courses ?
+show names of teachers and the number of courses they teach .
+what are the names of the teachers and how many courses do they teach ?
+show names of teachers that teach at least two courses .
+what are the names of the teachers who teach at least two courses ?
+list the names of teachers who have not been arranged to teach courses .
+what are the names of the teachers whose courses have not been arranged ?
+how many visitors below age 30 are there ?
+find the names of the visitors whose membership level is higher than 4 , and order the results by the level from high to low .
+what is the average age of the visitors whose membership level is not higher than 4 ?
+find the name and membership level of the visitors whose membership level is higher than 4 , and sort by their age from old to young .
+find the id and name of the museum that has the most staff members ?
+find the average number of staff working for the museums that were open before 2009 .
+what are the opening year and staff number of the museum named plaza museum ?
+find the names of museums which have more staff than the minimum staff number of all museums opened after 2010 .
+find the id , name and age for visitors who visited some museums more than once .
+what are the id , name and membership level of visitors who have spent the largest amount of money in total in all museum tickets ?
+what are the id and name of the museum visited most times ?
+what is the name of the museum that had no visitor yet ?
+find the name and age of the visitor who bought the most tickets at once .
+what are the average and maximum number of tickets bought in all visits ?
+what is the total ticket expense of the visitors whose membership level is 1 ?
+what is the name of the visitor who visited both a museum opened before 2009 and a museum opened after 2011 ?
+find the number of visitors who did not visit any museum opened after 2010 .
+how many museums were opened after 2013 or before 2008 ?
+find the total number of players .
+how many players are there ?
+find the total number of matches .
+count the number of matches .
+list the first name and birth date of all players from the country with code usa .
+what are the first names and birth dates of players from the usa ?
+find the average age of losers and winners of all matches .
+what are the average ages of losers and winners across matches ?
+find the average rank of winners in all matches .
+what is the average rank for winners in all matches ?
+find the highest rank of losers in all matches .
+what is the best rank of losers across all matches ?
+find the number of distinct country codes of all players .
+how many distinct countries do players come from ?
+find the number of distinct name of losers .
+how many different loser names are there ?
+find the name of tourney that has more than 10 matches .
+what are the names of tournaments that have more than 10 matches ?
+list the names of all winners who played in both 2013 and 2016 .
+what are the names of players who won in both 2013 and 2016 ?
+list the number of all matches who played in years of 2013 or 2016 .
+how many matches were played in 2013 or 2016 ?
+what are the country code and first name of the players who won in both tourney wta championships and australian open ?
+what are the first names and country codes for players who won both the wta championships and the australian open ?
+find the first name and country code of the oldest player .
+what is the first name and country code of the oldest player ?
+list the first and last name of all players in the order of birth date .
+what are the full names of all players , sorted by birth date ?
+list the first and last name of all players who are left / l hand in the order of birth date .
+what are the full names of all left handed players , in order of birth date ?
+find the first name and country code of the player who did the most number of tours .
+what is the first name and country code of the player with the most tours ?
+find the year that has the most number of matches .
+which year had the most matches ?
+find the name and rank points of the winner who won the most times .
+what is the name of the winner who has won the most matches , and how many rank points does this player have ?
+find the name of the winner who has the highest rank points and participated in the australian open tourney .
+what is the name of the winner with the most rank points who participated in the australian open tournament ?
+find the names of loser and winner who played in the match with greatest number of minutes .
+what are the names of the winner and loser who played in the longest match ?
+find the average ranking for each player and their first name .
+what are the first names of all players , and their average rankings ?
+find the total ranking points for each player and their first name .
+what are the first names of all players , and their total ranking points ?
+find the number of players for each country .
+how many players are from each country ?
+find the code of the country where has the greatest number of players .
+what is the code of the country with the most players ?
+find the codes of countries that have more than 50 players .
+what are the codes of countries with more than 50 players ?
+find the total number of tours for each ranking date .
+how many total tours were there for each ranking date ?
+find the number of matches happened in each year .
+how many matches were played in each year ?
+find the name and rank of the 3 youngest winners across all matches .
+what are the names and ranks of the three youngest winners across all matches ?
+how many different winners both participated in the wta championships and were left handed ?
+find the number of left handed winners who participated in the wta championships .
+find the first name , country code and birth date of the winner who has the highest rank points in all matches .
+what is the first name , country code , and birth date of the player with the most winner rank points across all matches ?
+find the number of players for each hand type .
+how many players are there for each hand type ?
+how many ships ended up being 'captured' ?
+list the name and tonnage ordered by in descending alphaetical order for the names .
+list the name , date and result of each battle .
+what is maximum and minimum death toll caused each time ?
+what is the average number of injuries caused each time ?
+what are the death and injury situations caused by the ship with tonnage 't' ?
+what are the name and results of the battles when the bulgarian commander is not 'boril'
+what are the different ids and names of the battles that lost any 'brig' type shipes ?
+what are the ids and names of the battles that led to more than 10 people killed in total .
+what is the ship id and name that caused most total injuries ?
+what are the distinct battle names which are between bulgarian commander 'kaloyan' and latin commander 'baldwin i' ?
+how many different results are there for the battles ?
+how many battles did not lose any ship with tonnage '225' ?
+list the name and date the battle that has lost the ship named 'lettice' and the ship named 'hms atalanta'
+show names , results and bulgarian commanders of the battles with no ships lost in the 'english channel' .
+what are the notes of the death events which has substring 'east' ?
+what are all the addresses including line 1 and line 2 ?
+what is the first and second line for all addresses ?
+how many courses in total are listed ?
+how many courses are there ?
+how is the math course described ?
+what are the descriptions for all the math courses ?
+what is the zip code of the address in the city port chelsea ?
+what is the zip code for port chelsea ?
+which department offers the most number of degrees ? list department name and id .
+for each department id , what is the name of the department with the most number of degrees ?
+how many departments offer any degree ?
+how many different departments offer degrees ?
+how many different degree names are offered ?
+how many different degrees are offered ?
+how many degrees does the engineering department offer ?
+how many degrees does the engineering department have ?
+what are the names and descriptions of all the sections ?
+what are the names and descriptions for all the sections ?
+what are the names and id of courses having at most 2 sections ?
+what are the names and ids of every course with less than 2 sections ?
+list the section_name in reversed lexicographical order .
+what are the names of the sections in reverse alphabetical order ?
+what is the semester which most student registered in ? show both the name and the id .
+for each semester , what is the name and id of the one with the most students registered ?
+what is the description of the department whose name has the substring the computer ?
+what is the department description for the one whose name has the word computer ?
+who are enrolled in 2 degree programs in one semester ? list the first name , middle name and last name and the id .
+what are the first , middle , and last names , along with the ids , of all students who enrolled in 2 degree programs in one semester ?
+who is enrolled in a bachelor degree program ? list the first name , middle name , last name .
+what are the first , middle , and last names for everybody enrolled in a bachelors program ?
+find the kind of program which most number of students are enrolled in ?
+what is the degree summary name that has the most number of students enrolled ?
+find the program which most number of students are enrolled in . list both the id and the summary .
+what is the program id and the summary of the degree that has the most students enrolled ?
+which student has enrolled for the most times in any program ? list the id , first name , middle name , last name , the number of enrollments and student id .
+what is the first , middle , and last name , along with the id and number of enrollments , for the student who enrolled the most in any program ?
+which semesters do not have any student enrolled ? list the semester name .
+what is the name of the semester with no students enrolled ?
+what are all the course names of the courses which ever have students enrolled in ?
+what are the names of all courses that have some students enrolled ?
+what 's the name of the course with most number of enrollments ?
+what is the name of the course with the most students enrolled ?
+find the last name of the students who currently live in the state of north carolina but have not registered in any degree program .
+what are the last name of the students who live in north carolina but have not registered in any degree programs ?
+show the date and id of the transcript with at least 2 course results .
+what is the date and id of the transcript with at least 2 courses listed ?
+what is the phone number of the man with the first name timmothy and the last name ward ?
+what is the mobile phone number of the student named timothy ward ?
+who is the first student to register ? list the first name , middle name and last name .
+what is the first , middle , and last name of the first student to register ?
+who is the earliest graduate of the school ? list the first name , middle name and last name .
+what is the first , middle , and last name of the earliest school graduate ?
+whose permanent address is different from his or her current address ? list his or her first name .
+what is the first name of the student whose permanent address is different from his or her current one ?
+which address holds the most number of students currently ? list the address id and all lines .
+what is the id , line 1 , and line 2 of the address with the most students ?
+on average , when were the transcripts printed ?
+what is the average transcript date ?
+when is the first transcript released ? list the date and details .
+what is the earliest date of a transcript release , and what details can you tell me ?
+how many transcripts are released ?
+how many transcripts are listed ?
+what is the last transcript release date ?
+when was the last transcript released ?
+how many times at most can a course enrollment result show in different transcripts ? also show the course enrollment id .
+what is the maximum number of times that a course shows up in different transcripts and what is that course 's enrollment id ?
+show the date of the transcript which shows the least number of results , also list the id .
+what is the date and id of the transcript with the least number of results ?
+find the semester when both master students and bachelor students got enrolled in .
+what is the id of the semester that had both masters and bachelors students enrolled ?
+how many different addresses do the students currently live ?
+what are the different addresses that have students living there ?
+list all the student details in reversed lexicographical order .
+what other details can you tell me about students in reverse alphabetical order ?
+describe the section h .
+what is the description for the section named h ?
+find the first name of the students who permanently live in the country haiti or have the cell phone number 09700166582 .
+what are the first names of the students who live in haiti permanently or have the cell phone number 09700166582 ?
+list the title of all cartoons in alphabetical order .
+what are the titles of the cartoons sorted alphabetically ?
+list all cartoon directed by "ben jones" .
+what are the names of all cartoons directed by ben jones ?
+how many cartoons were written by "joseph kuhr" ?
+what is the number of cartoones written by joseph kuhr ?
+list all cartoon titles and their directors ordered by their air date
+what is the name and directors of all the cartoons that are ordered by air date ?
+list the title of all cartoon directed by "ben jones" or "brandon vietti" .
+what are the titles of all cartoons directed by ben jones or brandon vietti ?
+which country has the most of tv channels ? list the country and number of tv channels it has .
+what is the country with the most number of tv channels and how many does it have ?
+list the number of different series names and contents in the tv channel table .
+how many different series and contents are listed in the tv channel table ?
+what is the content of tv channel with serial name "sky radio" ?
+what is the content of the series sky radio ?
+what is the package option of tv channel with serial name "sky radio" ?
+what are the package options of the tv channels whose series names are sky radio ?
+how many tv channel using language english ?
+how many tv channels use the english language ?
+list the language used least number of tv channel . list language and number of tv channel .
+what are the languages used by the least number of tv channels and how many channels use it ?
+list each language and the number of tv channels using it .
+for each language , list the number of tv channels that use it .
+what is the tv channel that shows the cartoon "the rise of the blue beetle!" ? list the tv channel 's series name .
+what is the series name of the tv channel that shows the cartoon "the rise of the blue beetle" ?
+list the title of all cartoons showed on tv channel with series name "sky radio" .
+what is the title of all the cartools that are on the tv channel with the series name "sky radio" ?
+list the episode of all tv series sorted by rating .
+what are all of the episodes ordered by ratings ?
+list top 3 highest rating tv series . list the tv series 's episode and rating .
+what are 3 most highly rated episodes in the tv series table and what were those ratings ?
+what is minimum and maximum share of tv series ?
+what is the maximum and minimum share for the tv series ?
+what is the air date of tv series with episode "a love of a lifetime" ?
+when did the episode "a love of a lifetime" air ?
+what is weekly rank of tv series with episode "a love of a lifetime" ?
+what is the weekly rank for the episode "a love of a lifetime" ?
+what is the tv channel of tv series with episode "a love of a lifetime" ? list the tv channel 's series name .
+what is the name of the series that has the episode "a love of a lifetime" ?
+list the episode of all tv series showed on tv channel with series name "sky radio" .
+what is the episode for the tv series named "sky radio" ?
+find the number of cartoons directed by each of the listed directors .
+how many cartoons did each director create ?
+find the production code and channel of the most recently aired cartoon .
+what is the produdction code and channel of the most recent cartoon ?
+find the package choice and series name of the tv channel that has high definition tv .
+what are the package options and the name of the series for the tv channel that supports high definition tv ?
+which countries' tv channels are playing some cartoon written by todd casey ?
+what are the countries that have cartoons on tv that were written by todd casey ?
+which countries' tv channels are not playing any cartoon written by todd casey ?
+what are the countries that are not playing cartoons written by todd casey ?
+find the series name and country of the tv channel that is playing some cartoons directed by ben jones and michael chang ?
+what is the series name and country of all tv channels that are playing cartoons directed by ben jones and cartoons directed by michael chang ?
+find the pixel aspect ratio and nation of the tv channels that do not use english .
+what is the pixel aspect ratio and country of origin for all tv channels that do not use english ?
+find id of the tv channels that from the countries where have more than two tv channels .
+what are the ids of all tv channels that have more than 2 tv channels ?
+find the id of tv channels that do not play any cartoon directed by ben jones .
+what are the ids of the tv channels that do not have any cartoons directed by ben jones ?
+find the package option of the tv channel that do not have any cartoon directed by ben jones .
+what are the package options of all tv channels that are not playing any cartoons directed by ben jones ?
+how many poker players are there ?
+count the number of poker players .
+list the earnings of poker players in descending order .
+what are the earnings of poker players , ordered descending by value ?
+list the final tables made and the best finishes of poker players .
+what are the final tables made and best finishes for all poker players ?
+what is the average earnings of poker players ?
+return the average earnings across all poker players .
+what is the money rank of the poker player with the highest earnings ?
+return the money rank of the player with the greatest earnings .
+what is the maximum number of final tables made among poker players with earnings less than 200000 ?
+return the maximum final tables made across all poker players who have earnings below 200000 .
+what are the names of poker players ?
+return the names of all the poker players .
+what are the names of poker players whose earnings is higher than 300000 ?
+give the names of poker players who have earnings above 300000 .
+list the names of poker players ordered by the final tables made in ascending order .
+what are the names of poker players , ordered ascending by the number of final tables they have made ?
+what is the birth date of the poker player with the lowest earnings ?
+return the birth date of the poker player with the lowest earnings .
+what is the money rank of the tallest poker player ?
+return the money rank of the poker player with the greatest height .
+what is the average earnings of poker players with height higher than 200 ?
+give average earnings of poker players who are taller than 200 .
+what are the names of poker players in descending order of earnings ?
+return the names of poker players sorted by their earnings descending .
+what are different nationalities of people and the corresponding number of people from each nation ?
+how many people are there of each nationality ?
+what is the most common nationality of people ?
+give the nationality that is most common across all people .
+what are the nationalities that are shared by at least two people ?
+return the nationalities for which there are two or more people .
+list the names and birth dates of people in ascending alphabetical order of name .
+what are the names and birth dates of people , ordered by their names in alphabetical order ?
+show names of people whose nationality is not "russia" .
+what are the names of people who are not from russia ?
+list the names of people that are not poker players .
+what are the names of people who do not play poker ?
+how many distinct nationalities are there ?
+count the number of different nationalities .
+how many states are there ?
+list the contestant numbers and names , ordered by contestant name descending .
+list the vote ids , phone numbers and states of all votes .
+what are the maximum and minimum values of area codes ?
+what is last date created of votes from the state 'ca' ?
+what are the names of the contestants whose names are not 'jessie alloway'
+what are the distinct states and create time of all votes ?
+what are the contestant numbers and names of the contestants who had at least two votes ?
+of all the contestants who got voted , what is the contestant number and name of the contestant who got least votes ?
+what are the number of votes from state 'ny' or 'ca' ?
+how many contestants did not get voted ?
+what is the area code in which the most voters voted ?
+what are the create dates , states , and phone numbers of the votes that were for the contestant named 'tabatha gehling' ?
+list the area codes in which voters voted both for the contestant 'tabatha gehling' and the contestant 'kelly clauss' .
+return the names the contestants whose names contain the substring 'al' .
+what are the names of all the countries that became independent after 1950 ?
+give the names of the nations that were founded after 1950 .
+how many countries have a republic as their form of government ?
+how many countries have governments that are republics ?
+what is the total surface area of the countries in the caribbean region ?
+how much surface area do the countires in the carribean cover together ?
+which continent is anguilla in ?
+what is the continent name which anguilla belongs to ?
+which region is the city kabul located in ?
+what region is kabul in ?
+which language is the most popular in aruba ?
+what language is predominantly spoken in aruba ?
+what are the population and life expectancies in brazil ?
+give me brazil’s population and life expectancies .
+what are the region and population of angola ?
+what region does angola belong to and what is its population ?
+what is the average expected life expectancy for countries in the region of central africa ?
+how long is the people’s average life expectancy in central africa ?
+what is the name of country that has the shortest life expectancy in asia ?
+give the name of the country in asia with the lowest life expectancy .
+what is the total population and maximum gnp in asia ?
+how many people live in asia , and what is the largest gnp among them ?
+what is the average life expectancy in african countries that are republics ?
+give the average life expectancy for countries in africa which are republics ?
+what is the total surface area of the continents asia and europe ?
+give the total surface area covered by countries in asia or europe .
+how many people live in gelderland district ?
+what is the total population of gelderland district ?
+what is the average gnp and total population in all nations whose government is us territory ?
+give the mean gnp and total population of nations which are considered us territory .
+how many unique languages are spoken in the world ?
+what is the number of distinct languages used around the world ?
+how many type of governments are in africa ?
+how many different forms of governments are there in africa ?
+what is the total number of languages used in aruba ?
+how many languages are spoken in aruba ?
+how many official languages does afghanistan have ?
+how many official languages are spoken in afghanistan ?
+what is name of the country that speaks the largest number of languages ?
+give the name of the nation that uses the greatest amount of languages .
+which continent has the most diverse languages ?
+which continent speaks the most languages ?
+how many countries speak both english and dutch ?
+what is the number of nations that use english and dutch ?
+what are the names of nations speak both english and french ?
+give the names of nations that speak both english and french .
+what are the names of nations where both english and french are official languages ?
+give the names of countries with english and french as official languages .
+what is the number of distinct continents where chinese is spoken ?
+how many continents speak chinese ?
+what are the regions that use english or dutch ?
+which regions speak dutch or english ?
+what are the countries where either english or dutch is the official language ?
+which countries have either english or dutch as an official language ?
+which language is the most popular on the asian continent ?
+what is the language that is used by the largest number of asian nations ?
+which languages are spoken by only one country in republic governments ?
+what languages are only used by a single country with a republic government ?
+find the city with the largest population that uses english .
+what is the most populace city that speaks english ?
+find the name , population and expected life length of asian country with the largest area ?
+what are the name , population , and life expectancy of the largest asian country by land ?
+what is average life expectancy in the countries where english is not the official language ?
+give the mean life expectancy of countries in which english is not the official language .
+what is the total number of people living in the nations that do not use english ?
+how many people live in countries that do not speak english ?
+what is the official language spoken in the country whose head of state is beatrix ?
+what is the official language used in the country the name of whose head of state is beatrix .
+what is the total number of unique official languages spoken in the countries that are founded before 1930 ?
+for the countries founded before 1930 , what is the total number of distinct official languages ?
+what are the countries that have greater surface area than any country in europe ?
+which countries have greater area than that of any country in europe ?
+what are the african countries that have a population less than any country in asia ?
+which african countries have a smaller population than that of any country in asia ?
+which asian countries have a population that is larger than any country in africa ?
+what are the asian countries which have a population larger than that of any country in africa ?
+what are the country codes for countries that do not speak english ?
+return the country codes for countries that do not speak english .
+what are the country codes of countries where people use languages other than english ?
+give the country codes for countries in which people speak langauges that are not english .
+what are the codes of the countries that do not speak english and whose government forms are not republic ?
+return the codes of countries that do not speak english and do not have republics for governments .
+which cities are in european countries where english is not the official language ?
+what are the names of cities in europe for which english is not the official language ?
+whic`h unique cities are in asian countries where chinese is the official language ?
+return the different names of cities that are in asia and for which chinese is the official language .
+what are the name , independence year , and surface area of the country with the smallest population ?
+give the name , year of independence , and surface area of the country that has the lowest population .
+what are the population , name and leader of the country with the largest area ?
+give the name , population , and head of state for the country that has the largest area .
+return the country name and the numbers of languages spoken for each country that speaks at least 3 languages .
+what are the names of countries that speak more than 2 languages , as well as how many languages they speak ?
+find the number of cities in each district whose population is greater than the average population of cities ?
+how many cities in each district have a population that is above the average population across all cities ?
+find the government form name and total population for each government form whose average life expectancy is longer than 72 .
+what are the different government forms and what is the total population of each for government forms that have an average life expectancy greater than 72 ?
+find the average life expectancy and total population for each continent where the average life expectancy is shorter than 72 ?
+what are the different continents and the total popuation and average life expectancy corresponding to each , for continents that have an average life expectancy less than 72 ?
+what are the names and areas of countries with the top 5 largest area ?
+return the names and surface areas of the 5 largest countries .
+what are names of countries with the top 3 largest population ?
+return the names of the 3 most populated countries .
+what are the names of the nations with the 3 lowest populations ?
+return the names of the 3 countries with the fewest people .
+how many countries are in asia ?
+count the number of countries in asia .
+what are the names of the countries that are in the continent of europe and have a population of 80000 ?
+give the names of countries that are in europe and have a population equal to 80000 .
+what is the total population and average area of countries in the continent of north america whose area is bigger than 3000？
+give the total population and average surface area corresponding to countries in noth america that have a surface area greater than 3000 .
+what are the cities whose population is between 160000 and 900000 ?
+return the names of cities that have a population between 160000 and 900000 .
+which language is spoken by the largest number of countries ?
+give the language that is spoken in the most countries .
+what is the language spoken by the largest percentage of people in each country ?
+what are the country codes of the different countries , and what are the languages spoken by the greatest percentage of people for each ?
+what is the total number of countries where spanish is spoken by the largest percentage of people ?
+count the number of countries for which spanish is the predominantly spoken language .
+what are the codes of countries where spanish is spoken by the largest percentage of people ?
+return the codes of countries for which spanish is the predominantly spoken language .
+how many conductors are there ?
+count the number of conductors .
+list the names of conductors in ascending order of age .
+what are the names of conductors , ordered by age ?
+what are the names of conductors whose nationalities are not "usa" ?
+return the names of conductors that do not have the nationality "usa" .
+what are the record companies of orchestras in descending order of years in which they were founded ?
+return the record companies of orchestras , sorted descending by the years in which they were founded .
+what is the average attendance of shows ?
+return the average attendance across all shows .
+what are the maximum and minimum share of performances whose type is not "live final" .
+return the maximum and minimum shares for performances that do not have the type "live final" .
+how many different nationalities do conductors have ?
+count the number of different nationalities of conductors .
+list names of conductors in descending order of years of work .
+what are the names of conductors , sorted descending by the number of years they have worked ?
+list the name of the conductor with the most years of work .
+what is the name of the conductor who has worked the greatest number of years ?
+show the names of conductors and the orchestras they have conducted .
+what are the names of conductors as well as the corresonding orchestras that they have conducted ?
+show the names of conductors that have conducted more than one orchestras .
+what are the names of conductors who have conducted at more than one orchestra ?
+show the name of the conductor that has conducted the most number of orchestras .
+what is the name of the conductor who has conducted the most orchestras ?
+please show the name of the conductor that has conducted orchestras founded after 2008 .
+what are the names of conductors who have conducted orchestras founded after the year 2008 ?
+please show the different record companies and the corresponding number of orchestras .
+how many orchestras does each record company manage ?
+please show the record formats of orchestras in ascending order of count .
+what are the major record formats of orchestras , sorted by their frequency ?
+list the record company shared by the most number of orchestras .
+what is the record company used by the greatest number of orchestras ?
+list the names of orchestras that have no performance .
+what are the orchestras that do not have any performances ?
+show the record companies shared by orchestras founded before 2003 and after 2003 .
+what are the record companies that are used by both orchestras founded before 2003 and those founded after 2003 ?
+find the number of orchestras whose record format is "cd" or "dvd" .
+count the number of orchestras that have cd or dvd as their record format .
+show the years in which orchestras that have given more than one performance are founded .
+what are years of founding for orchestras that have had more than a single performance ?
+how many high schoolers are there ?
+count the number of high schoolers .
+show the names and grades of each high schooler .
+what are the names and grades for each high schooler ?
+show all the grades of the high schoolers .
+what is the grade of each high schooler ?
+what grade is kyle in ?
+return the grade for the high schooler named kyle .
+show the names of all high schoolers in grade 10 .
+what are the names of all high schoolers in grade 10 ?
+show the id of the high schooler named kyle .
+what is kyle 's id ?
+how many high schoolers are there in grade 9 or 10 ?
+count the number of high schoolers in grades 9 or 10 .
+show the number of high schoolers for each grade .
+how many high schoolers are in each grade ?
+which grade has the most high schoolers ?
+return the grade that has the greatest number of high schoolers .
+show me all grades that have at least 4 students .
+which grades have 4 or more high schoolers ?
+show the student ids and numbers of friends corresponding to each .
+how many friends does each student have ?
+show the names of high school students and their corresponding number of friends .
+what are the names of the high schoolers and how many friends does each have ?
+what is the name of the high schooler who has the greatest number of friends ?
+return the name of the high school student with the most friends .
+show the names of high schoolers who have at least 3 friends .
+what are the names of high schoolers who have 3 or more friends ?
+show the names of all of the high schooler kyle 's friends .
+return the names of friends of the high school student kyle .
+how many friends does the high school student kyle have ?
+count the number of friends kyle has .
+show ids of all students who do not have any friends .
+what are the ids of high school students who do not have friends ?
+show names of all high school students who do not have any friends .
+what are the names of students who have no friends ?
+show the ids of high schoolers who have friends and are also liked by someone else .
+what are the ids of students who both have friends and are liked ?
+show name of all students who have some friends and also are liked by someone else .
+what are the names of high schoolers who both have friends and are liked ?
+count the number of likes for each student id .
+how many likes correspond to each student id ?
+show the names of high schoolers who have likes , and numbers of likes for each .
+what are the names of high schoolers who have likes , and how many likes does each have ?
+what is the name of the high schooler who has the greatest number of likes ?
+give the name of the student with the most likes .
+show the names of students who have at least 2 likes .
+what are the names of students who have 2 or more likes ?
+show the names of students who have a grade higher than 5 and have at least 2 friends .
+what are the names of high schoolers who have a grade of over 5 and have 2 or more friends ?
+how many likes does kyle have ?
+return the number of likes that the high schooler named kyle has .
+find the average grade of all students who have some friends .
+what is the average grade of students who have friends ?
+find the minimum grade of students who have no friends .
+what is the lowest grade of students who do not have any friends ?
+which states have both owners and professionals living there ?
+find the states where both owners and professionals live .
+what is the average age of the dogs who have gone through any treatments ?
+find the average age of the dogs who went through treatments .
+which professionals live in the state of indiana or have done treatment on more than 2 treatments ? list his or her id , last name and cell phone .
+find the id , last name and cell phone of the professionals who live in the state of indiana or have performed more than two treatments .
+which dogs have not cost their owner more than 1000 for treatment ? list the dog names .
+what are the names of the dogs for which the owner spent more than 1000 for treatment ?
+which first names are used for professionals or owners but are not used as dog names ?
+find the first names that are used for professionals or owners but are not used as dog names .
+which professional did not operate any treatment on dogs ? list the professional 's id , role and email .
+give me the id , role and email of the professionals who did not perform any treatment on dogs .
+which owner owns the most dogs ? list the owner id , first name and last name .
+return the owner id , first name and last name of the owner who has the most dogs .
+which professionals have done at least two treatments ? list the professional 's id , role , and first name .
+what are the id , role , and first name of the professionals who have performed two or more treatments ?
+what is the name of the breed with the most dogs ?
+which breed do the most dogs have ? give me the breed name .
+which owner has paid for the most treatments on his or her dogs ? list the owner id and last name .
+tell me the owner id and last name of the owner who spent the most on treatments of his or her dogs .
+what is the description of the treatment type that costs the least money in total ?
+give me the description of the treatment type whose total cost is the lowest .
+which owner has paid the largest amount of money in total for their dogs ? show the owner id and zip code .
+find the owner id and zip code of the owner who spent the most money in total for his or her dogs .
+which professionals have done at least two types of treatments ? list the professional id and cell phone .
+find the id and cell phone of the professionals who operate two or more types of treatments .
+what are the first name and last name of the professionals who have done treatment with cost below average ?
+which professionals have operated a treatment that costs less than the average ? give me theor first names and last names .
+list the date of each treatment , together with the first name of the professional who operated it .
+what are the date and the operating professional 's first name of each treatment ?
+list the cost of each treatment and the corresponding treatment type description .
+what are the cost and treatment type description of each treatment ?
+list each owner 's first name , last name , and the size of his for her dog .
+what are each owner 's first name , last name , and the size of their dog ?
+list pairs of the owner 's first name and the dogs 's name .
+what are each owner 's first name and their dogs 's name ?
+list the names of the dogs of the rarest breed and the treatment dates of them .
+which dogs are of the rarest breed ? show their names and treatment dates .
+which dogs are owned by someone who lives in virginia ? list the owner 's first name and the dog 's name .
+find the first names of owners living in virginia and the names of dogs they own .
+what are the arriving date and the departing date of the dogs who have gone through a treatment ?
+find the arriving date and the departing date of the dogs that received a treatment .
+list the last name of the owner owning the youngest dog .
+who owns the youngest dog ? give me his or her last name .
+list the emails of the professionals who live in the state of hawaii or the state of wisconsin .
+what are the emails of the professionals living in either the state of hawaii or the state of wisconsin ?
+what are the arriving date and the departing date of all the dogs ?
+list the arrival date and the departure date for all the dogs .
+how many dogs went through any treatments ?
+count the number of dogs that went through a treatment .
+how many professionals have performed any treatment to dogs ?
+find the number of professionals who have ever treated dogs .
+which professionals live in a city containing the substring 'west' ? list his or her role , street , city and state .
+find the role , street , city and state of the professionals living in a city that contains the substring 'west' .
+which owners live in the state whose name contains the substring 'north' ? list his first name , last name and email .
+return the first name , last name and email of the owners living in a state whose name contains the substring 'north' .
+how many dogs have an age below the average ?
+count the number of dogs of an age below the average .
+how much does the most recent treatment cost ?
+show me the cost of the most recently performed treatment .
+how many dogs have not gone through any treatment ?
+tell me the number of dogs that have received any treatment .
+how many owners temporarily do not have any dogs ?
+find the number of owners who do not own any dogs at this moment .
+how many professionals did not operate any treatment on dogs ?
+find the number of professionals who have not treated any dogs .
+list the dog name , age and weight of the dogs who have been abandoned ? 1 stands for yes , and 0 stands for no .
+what are the dog name , age and weight of the dogs that were abandoned ? note that 1 stands for yes , and 0 stands for no in the tables .
+what is the average age of all the dogs ?
+compute the average age of all the dogs .
+what is the age of the oldest dog ?
+tell me the age of the oldest dog .
+how much does each charge type costs ? list both charge type and amount .
+list each charge type and its amount .
+how much does the most expensive charge type costs ?
+what is the charge amount of the most expensive charge type ?
+list the email , cell phone and home phone of all the professionals .
+what are the email , cell phone and home phone of each professional ?
+what are all the possible breed type and size type combinations ?
+find the distinct breed type and size type combinations for dogs .
+list the first name of all the professionals along with the description of the treatment they have done .
+what are each professional 's first name and description of the treatment they have performed ?
+how many singers are there ?
+what is the count of singers ?
+list the name of singers in ascending order of net worth .
+what are the names of singers ordered by ascending net worth ?
+what are the birth year and citizenship of singers ?
+what are the birth years and citizenships of the singers ?
+list the name of singers whose citizenship is not "france" .
+what are the names of the singers who are not french citizens ?
+show the name of singers whose birth year is either 1948 or 1949 ?
+what are the names of the singers whose birth years are either 1948 or 1949 ?
+what is the name of the singer with the largest net worth ?
+what is the name of the singer who is worth the most ?
+show different citizenship of singers and the number of singers of each citizenship .
+for each citizenship , how many singers are from that country ?
+please show the most common citizenship of singers .
+what is the msot common singer citizenship ?
+show different citizenships and the maximum net worth of singers of each citizenship .
+for each citizenship , what is the maximum net worth ?
+show titles of songs and names of singers .
+what are the song titles and singer names ?
+show distinct names of singers that have songs with sales more than 300000 .
+what are the different names of the singers that have sales more than 300000 ?
+show the names of singers that have more than one song .
+what are the names of the singers that have more than one songs ?
+show the names of singers and the total sales of their songs .
+for each singer name , what is the total sales for their songs ?
+list the name of singers that do not have any song .
+what is the sname of every sing that does not have any song ?
+show the citizenship shared by singers with birth year before 1945 and after 1955 .
+what are the citizenships that are shared by singers with a birth year before 1945 and after 1955 ?
+how many available features are there in total ?
+what is the feature type name of feature aircon ?
+show the property type descriptions of properties belonging to that code .
+what are the names of properties that are either houses or apartments with more than 1 room ?

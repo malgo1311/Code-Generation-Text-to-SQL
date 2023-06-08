@@ -1,0 +1,696 @@
+find the number of matches in different competitions .
+for each competition , count the number of matches .
+list venues of all matches in the order of their dates starting from the most recent one .
+what are the venues of all the matches ? sort them in the descending order of match date .
+what is the gdp of the city with the largest population .
+find the gdp of the city with the largest regional population .
+what are the gdp and population of the city that already served as a host more than once ?
+which cities have served as host cities more than once ? return me their gdp and population .
+list every individual 's first name , middle name and last name in alphabetical order by last name .
+what are the first , middle , and last names of all individuals , ordered by last name ?
+list all the types of forms .
+what are the different types of forms ?
+find the name of the most popular party form .
+what is the name of the party form that is most common ?
+find the payment method and phone of the party with email "enrico09@example . com" .
+what is the payment method code and party phone of the party with the email 'enrico09@example . com' ?
+find the emails of parties with the most popular party form .
+what are the party emails associated with parties that used the party form that is the most common ?
+list all the name of organizations in order of the date formed .
+what are the names of organizations , ordered by the date they were formed , ascending ?
+find the name of the youngest organization .
+what is the name of the organization that was formed most recently ?
+find the last name of the latest contact individual of the organization "labour party" .
+what is the last name of the contact individual from the labour party organization who was contacted most recently ?
+find the last name of the first ever contact person of the organization with the highest uk vat number .
+what is the last name of the first individual contacted from the organization with the maximum uk vat number across all organizations ?
+find name of the services that has never been used .
+what are the names of the services that have never been used ?
+find the name of all the cities and states .
+what are the names of all cities and states ?
+how many cities are there in state "colorado" ?
+count the number of cities in the state of colorado .
+find the payment method code used by more than 3 parties .
+what are the payment method codes that have been used by more than 3 parties ?
+find the name of organizations whose names contain "party" .
+what are the names of organizations that contain the word "party" ?
+how many distinct payment methods are used by parties ?
+count the number of different payment method codes used by parties .
+which is the email of the party that has used the services the most number of times ?
+return the party email that has used party services the greatest number of times .
+which state can address "6862 kaitlyn knolls" possibly be in ?
+give the state corresponding to the line number building "6862 kaitlyn knolls" .
+what is the name of organization that has the greatest number of contact individuals ?
+return the name of the organization which has the most contact individuals .
+find the last name of the individuals that have been contact individuals of an organization .
+what are the last names of individuals who have been contact individuals for an organization ?
+how many drivers are there ?
+show the name , home city , and age for all drivers .
+show the party and the number of drivers in each party .
+show the name of drivers in descending order of age .
+show all different home cities .
+show the home city with the most number of drivers .
+show the party with drivers from hartford and drivers older than 40 .
+show home city where at least two drivers older than 40 are from .
+show all home cities except for those having a driver older than 40 .
+show the names of the drivers without a school bus .
+show the types of schools that have two schools .
+show the school name and driver name for all school buses .
+what is the maximum , minimum and average years spent working on a school bus ?
+show the school name and type for schools without a school bus .
+show the type of school and the number of buses for each type .
+how many drivers are from hartford city or younger than 40 ?
+list names for drivers from hartford city and younger than 40 .
+find the name of driver who is driving the school bus with the longest working history .
+how many flights have a velocity larger than 200 ?
+list the vehicle flight number , date and pilot of all the flights , ordered by altitude .
+list the id , country , city and name of the airports ordered alphabetically by the name .
+what is maximum group equity shareholding of the companies ?
+what is the velocity of the pilot named 'thompson' ?
+what are the names and types of the companies that have ever operated a flight ?
+what are the names of the airports which are not in the country 'iceland' ?
+what are the distinct types of the companies that have operated any flights with velocity less than 200 ?
+what are the ids and names of the companies that operated more than one flight ?
+what is the id , name and iata code of the airport that had most number of flights ?
+what are the different pilot names who had piloted a flight in the country 'united states' or in the airport named 'billund airport' ?
+what is the most common company type , and how many are there ?
+how many airports have n't the pilot 'thompson' driven an aircraft ?
+list the name of the pilots who have flied for both a company that mainly provide 'cargo' services and a company that runs 'catering services' activities .
+which of the airport names contains the word 'international' ?
+how many companies operates airlines in each airport ?
+how many airports are there in each country ?
+which countries have more than 2 airports ?
+which pilot is in charge of the most number of flights ?
+show all account ids and account details .
+what are the ids and details of all accounts ?
+how many statements do we have ?
+count the number of statements .
+list all statement ids and statement details .
+what are the ids and details of all statements ?
+show statement id , statement detail , account detail for accounts .
+what are the statement ids , statement details , and account details , for all accounts ?
+show all statement id and the number of accounts for each statement .
+what are the different statement ids on accounts , and the number of accounts for each ?
+show the statement id and the statement detail for the statement with most number of accounts .
+what are the statement id and statement detail for the statement that has the most corresponding accounts ?
+show the number of documents .
+count the number of documents .
+list the document type code , document name , and document description for the document with name 'noel cv' or name 'king book' .
+what are the type come , name , and description of the document that has either the name 'noel cv' or 'king book' ?
+show the ids and names of all documents .
+what are the ids and names for each of the documents ?
+find names and ids of all documents with document type code bk .
+what are the names and ids of documents that have the type code bk ?
+how many documents are with document type code bk for each product id ?
+count the number of documents with the type code bk that correspond to each product id .
+show the document name and the document date for all documents on project with details 'graph database project' .
+what are the names and dates for documents corresponding to project that has the details 'graph database project' ?
+show project ids and the number of documents in each project .
+how many documents correspond with each project id ?
+what is the id of the project with least number of documents ?
+return the id of the project that has the fewest corresponding documents .
+show the ids for projects with at least 2 documents .
+what are project ids of projects that have 2 or more corresponding documents ?
+list document type codes and the number of documents in each code .
+how many documents are there of each type ?
+what is the document type code with most number of documents ?
+return the code of the document type that is most common .
+show the document type code with fewer than 3 documents .
+what are the codes corresponding to document types for which there are less than 3 documents ?
+show the statement detail and the corresponding document name for the statement with detail 'private project' .
+what are the details for statements with the details 'private project' , and what are the names of the corresponding documents ?
+show all document type codes , document type names , document type descriptions .
+what are the codes , names , and descriptions of the different document types ?
+what is the document type description for document type named film ?
+return the description of the document type name 'film' .
+what is the document type name and the document type description and creation date for all the documents ?
+return the type name , type description , and date of creation for each document .
+show the number of projects .
+how many projects are there ?
+list ids and details for all projects .
+what are the ids and details for each project ?
+what is the project id and detail for the project with at least two documents ?
+return the ids and details corresponding to projects for which there are more than two documents .
+what is the project detail for the project with document "king book" ?
+give the details of the project with the document name 'king book' .
+how many budget types do we have ?
+count the number of budget codes .
+list all budget type codes and descriptions .
+what are the type codes and descriptions of each budget type ?
+what is the description for the budget type with code org ?
+return the description of the budget type that has the code org .
+how many documents have expenses ?
+count the number of documents with expenses .
+what are the document ids for the budget type code 'sf' ?
+give the ids of documents with expenses that have the budget code 'sf' .
+show the budget type code and description and the corresponding document id .
+return the budget type codes , budget type descriptions and document ids for documents with expenses .
+show ids for all documents with budget types described as 'government' .
+give the ids for documents that have the budget description 'government' .
+show budget type codes and the number of documents in each budget type .
+what are the different budget type codes , and how many documents are there for each ?
+what is the budget type code with most number of documents .
+give the budget type code that is most common among documents with expenses .
+what are the ids of documents which do n't have expense budgets ?
+return the ids of documents that do not have expenses .
+show ids for all documents in type cv without expense budgets .
+what are the ids of documents with the type code cv that do not have expenses .
+what are the ids of documents with letter 's' in the name with any expense budgets .
+give the ids of documents that have expenses and contain the letter s in their names .
+how many documents do not have any expense ?
+count the number of documents that do not have expenses .
+what are the dates for the documents with both 'gv' type and 'sf' type expenses ?
+give the dates of creation for documents that have both budget type codes 'gv' and 'sf' .
+what are the account details with the largest value or with value having char '5' in it ?
+return the account details with the greatest value , as well as those that include the character 5 .
+find the total number of scientists .
+how many scientists are there ?
+find the total hours of all projects .
+what is the total number of hours for all projects ?
+how many different scientists are assigned to any project ?
+count the number of different scientists assigned to any project .
+find the number of distinct projects .
+how many different projects are there ?
+find the average hours of all projects .
+what is the average hours across all projects ?
+find the name of project that continues for the longest time .
+what is the name of the project with the most hours ?
+list the name of all projects that are operated longer than the average working hours of all projects .
+what are the names of projects that have taken longer than the average number of hours for all projects ?
+find the name and hours of project that has the most number of scientists .
+what is the name and hours for the project which has the most scientists assigned to it ?
+find the name of the project for which a scientist whose name contains ‘smith’ is assigned to .
+what is the name of the project that has a scientist assigned to it whose name contains 'smith' ?
+find the total hours of the projects that scientists named michael rogers or carol smith are assigned to .
+what is the sum of hours for projects that scientists with the name michael rogers or carol smith are assigned to ?
+find the name of projects that require between 100 and 300 hours of work .
+what are the names of projects that require between 100 and 300 hours ?
+find the name of the scientist who worked on both a project named 'matter of time' and a project named 'a puzzling parallax' .
+what are the names of any scientists who worked on projects named 'matter of time' and 'a puzzling pattern' ?
+list the names of all scientists sorted in alphabetical order .
+what are the names of all the scientists in alphabetical order ?
+find the number of scientists involved for each project name .
+what are the naems of all the projects , and how many scientists were assigned to each of them ?
+find the number of scientists involved for the projects that require more than 300 hours .
+what are the names of projects that require more than 300 hours , and how many scientists are assigned to each ?
+find the number of projects which each scientist is working on and scientist 's name .
+what are the names of the scientists , and how many projects are each of them working on ?
+find the ssn and name of scientists who are assigned to the project with the longest hours .
+what are the ssn and names of scientists working on the project with the most hours ?
+find the name of scientists who are assigned to some project .
+what are the names of scientists who are assigned to any project ?
+select the project names which are not assigned yet .
+what are the names of projects that have not been assigned ?
+find the name of scientists who are not assigned to any project .
+what are the names of scientists who have not been assigned a project ?
+find the number of scientists who are not assigned to any project .
+how many scientists do not have any projects assigned to them ?
+find the names of scientists who are not working on the project with the highest hours .
+what are the names of scientists who are not working on the project with the most hours ?
+list all the scientists' names , their projects' names , and the hours worked by that scientist on each project , in alphabetical order of project name , and then scientist name .
+what are the names of each scientist , the names of the projects that they work on , and the hours for each of those projects , listed in alphabetical order by project name , then scientist name .
+find name of the project that needs the least amount of time to finish and the name of scientists who worked on it .
+what is the name of the project that requires the fewest number of hours , and the names of the scientists assigned to it ?
+what is the name of the highest rated wine ?
+give the name of the wine with the highest score .
+which winery is the wine that has the highest score from ?
+what is the winery at which the wine with the highest score was made ?
+find the names of all wines produced in 2008 .
+what are the names of all wines produced in 2008 ?
+list the grapes and appelations of all wines .
+what are the grapes and appelations of each wine ?
+list the names and scores of all wines .
+what are the names and scores of all wines ?
+list the area and county of all appelations .
+what are the areas and counties for all appelations ?
+what are the prices of wines produced before the year of 2010 ?
+return the prices of wines produced before 2010 .
+list the names of all distinct wines that have scores higher than 90 .
+what are the names of wines with scores higher than 90 ?
+list the names of all distinct wines that are made of red color grape .
+what are the names of wines made from red grapes ?
+find the names of all distinct wines that have appellations in north coast area .
+what are the distinct names of wines that have appellations in the north coast area ?
+how many wines are produced at robert biale winery ?
+count the number of wines produced at robert biale winery .
+how many appelations are in napa country ?
+count the number of appelations in napa county .
+give me the average prices of wines that are produced by appelations in sonoma county .
+what is the average price of wines produced in appelations in sonoma county ?
+what are the names and scores of wines that are made of white color grapes ?
+give the names and scores of wines made from white grapes .
+find the maximum price of wins from the appelations in central coast area and produced before the year of 2005 .
+what is the maximum price of wines from the appelation in the central coast area , which was produced before 2005 ?
+find the the grape whose white color grapes are used to produce wines with scores higher than 90 .
+find the white grape used to produce wines with scores above 90 .
+what are the wines that have prices higher than 50 and made of red color grapes ?
+what are the names of wines made from red grapes and with prices above 50 ?
+what are the wines that have prices lower than 50 and have appelations in monterey county ?
+give the neames of wines with prices below 50 and with appelations in monterey county .
+what are the numbers of wines for different grapes ?
+how many wines are there for each grape ?
+what are the average prices of wines for different years ?
+what is the average prices of wines for each each ?
+find the distinct names of all wines that have prices higher than some wines from john anthony winery .
+what are the distinct names of wines with prices higher than any wine from john anthony winery .
+list the names of all distinct wines in alphabetical order .
+what are the names of wines , sorted in alphabetical order ?
+list the names of all distinct wines ordered by price .
+what are the names of wines , sorted by price ascending ?
+what is the area of the appelation that produces the highest number of wines before the year of 2010 ?
+what is the area for the appelation which produced the most wines prior to 2010 ?
+what is the color of the grape whose wine products has the highest average price ?
+give the color of the grape whose wine products have the highest average price ?
+find the distinct names of wines produced before the year of 2000 or after the year of 2010 .
+give the distinct names of wines made before 2000 or after 2010 .
+find the distinct winery of wines having price between 50 and 100 .
+what are the distinct wineries which produce wines costing between 50 and 100 ?
+what are the average prices and cases of wines produced in the year of 2009 and made of zinfandel grape ?
+give the average price and case of wines made from zinfandel grapes in the year 2009 .
+what are the maximum price and score of wines produced by st . helena appelation ?
+give the maximum price and score for wines produced in the appelation st . helena .
+what are the maximum price and score of wines in each year ?
+what are the maximum price and score of wines for each year ?
+what are the average price and score of wines grouped by appelation ?
+what are the average price and score of wines for each appelation ?
+find the wineries that have at least four wines .
+which wineries produce at least four wines ?
+find the country of all appelations who have at most three wines .
+what are the countries for appelations with at most 3 wines ?
+what are the names of wines whose production year are before the year of all wines by brander winery ?
+what are the names of wines produced before any wine from the brander winery ?
+what are the names of wines that are more expensive then all wines made in the year 2006 ?
+give the names of wines with prices above any wine produced in 2006 .
+find the top 3 wineries with the greatest number of wines made of white color grapes .
+which 3 wineries produce the most wines made from white grapes ?
+list the grape , winery and year of the wines whose price is bigger than 100 ordered by year .
+what are the grapes , wineries and years for wines with price higher than 100 , sorted by year ?
+list the grape , appelation and name of wines whose score is higher than 93 ordered by name .
+what are the grapes , appelations , and wines with scores above 93 , sorted by name ?
+find the appelations that produce wines after the year of 2008 but not in central coast area .
+what are the appelations for wines produced after 2008 but not in the central coast area ?
+find the average price of wines that are not produced from sonoma county .
+what is the average price for wines not produced in sonoma county ?
+find the county where produces the most number of wines with score higher than 90 .
+what is the county that produces the most wines scoring higher than 90 ?
+how many train stations are there ?
+show the name , location , and number of platforms for all stations .
+what are all locations of train stations ?
+show the names and total passengers for all train stations not in london .
+show the names and main services for train stations that have the top three total number of passengers .
+what is the average and maximum number of total passengers for train stations in london or glasgow ?
+show all locations and the total number of platforms and passengers for all train stations in each location .
+show all locations that have train stations with at least 15 platforms and train stations with more than 25 total passengers .
+show all locations which do n't have a train station with at least 15 platforms .
+show the location with most number of train stations .
+show the name , time , and service for all trains .
+show the number of trains
+show the name and service for all trains in order by time .
+show the station name and number of trains in each station .
+show the train name and station name for each train .
+show all train names and times in stations in london in descending order by train time .
+show the station name with greatest number of trains .
+show the station name with at least two trains .
+show all locations with only 1 station .
+show station names without any trains .
+what are the names of the stations which serve both "ananthapuri express" and "guruvayur express" trains ?
+find the names of the trains that do not pass any station located in london .
+list the names and locations of all stations ordered by their yearly entry exit and interchange amounts .
+list all vehicle id
+what are the ids of all vehicles ?
+how many vehicle in total ?
+how many vehicles exist ?
+show the detail of vehicle with id 1 .
+what are the details of the car with id 1 ?
+list the first name middle name and last name of all staff .
+what are the first , middle , and last names of all staff ?
+what is the birthday of the staff member with first name as janessa and last name as sawayn ?
+what is the date of birth for the staff member named janessa sawayn ?
+when did the staff member with first name as janessa and last name as sawayn join the company ?
+when did the staff member named janessa sawayn join the company ?
+when did the staff member with first name as janessa and last name as sawayn leave the company ?
+when did the staff member janessa sawayn leave the company ?
+how many staff have the first name ludie ?
+how many employees have a first name of ludie ?
+what is the nickname of staff with first name as janessa and last name as sawayn ?
+what is the nickname of the employee named janessa sawayn ?
+how many staff in total ?
+how many employees are there ?
+which city does staff with first name as janessa and last name as sawayn live ?
+in what city does janessa sawayn live ?
+which country and state does staff with first name as janessa and last name as sawayn lived ?
+in which country and state does janessa sawayn live ?
+how long is the total lesson time took by customer with first name as rylan and last name as goodwin ?
+how long is the total lesson time took by the customer named rylan goodwin ?
+what is the zip code of staff with first name as janessa and last name as sawayn lived ?
+what is the zip code of the hosue of the employee named janessa sawayn ?
+how many staff live in state georgia ?
+how many employees live in georgia ?
+find out the first name and last name of staff lived in city damianfort .
+what is the first and last name of all employees who live in the city damianfort ?
+which city lives most of staffs ? list the city name and number of staffs .
+in which city do the most employees live and how many of them live there ?
+list the states which have between 2 to 4 staffs living there .
+what are the names of the states that have 2 to 4 employees living there ?
+list the first name and last name of all customers .
+what are the first and last names for all customers ?
+list email address and birthday of customer whose first name as carole .
+what are the email addresses and date of births for all customers who have a first name of carole ?
+list phone number and email address of customer with more than 2000 outstanding balance .
+what are the phone numbers and email addresses of all customers who have an outstanding balance of more than 2000 ?
+what is the status code , mobile phone number and email address of customer with last name as kohler or first name as marina ?
+what is the status code , phone number , and email address of the customer whose last name is kohler or whose first name is marina ?
+when are the birthdays of customer who are classified as 'good customer' status ?
+what is the date of birth of every customer whose status code is 'good customer' ?
+when did customer with first name as carole and last name as bernhard became a customer ?
+when did carole bernhard first become a customer ?
+how many customers in total ?
+how many customers are there ?
+list all customer status codes and the number of customers having each status code .
+for each customer status code , how many customers are classified that way ?
+which customer status code has least number of customers ?
+what is the status code with the least number of customers ?
+how many lessons taken by customer with first name as rylan and last name as goodwin were completed ?
+how many lessons did the customer ryan goodwin complete ?
+what is maximum , minimum and average amount of outstanding of customer ?
+what is the maximum , minimum , and average amount of money outsanding for all customers ?
+list the first name and last name of customers have the amount of outstanding between 1000 and 3000 .
+what are the first and last names of all customers with between 1000 and 3000 dollars outstanding ?
+list first name and last name of customers lived in city lockmanfurt .
+what are the first and last names of all customers who lived in lockmanfurt ?
+which country does customer with first name as carole and last name as bernhard lived in ?
+what is the country in which the customer carole bernhard lived ?
+what is zip code of customer with first name as carole and last name as bernhard ?
+what is the zip code of the customer carole bernhard ?
+which city does has most number of customers ?
+what is the city with the most customers ?
+how much in total does customer with first name as carole and last name as bernhard paid ?
+what is the total amount of moeny paid by the customer carole bernhard ?
+list the number of customers that did not have any payment history .
+how many customers have no payment histories ?
+list first name and last name of customers that have more than 2 payments .
+what are the first and last names of all customers with more than 2 payments ?
+list all payment methods and number of payments using each payment methods .
+for each payment method , how many payments were made ?
+how many lessons were in cancelled state ?
+how many lessons have been cancelled ?
+list lesson id of all lessons taught by staff with first name as janessa , last name as sawayn and nickname containing letter 's' .
+what are the the lesson ids of all staff taught by janessa sawayn whose nickname has the letter s ?
+how many lessons taught by staff whose first name has letter 'a' in it ?
+how many lessons were taught by a staff member whose first name has the letter 'a' in it ?
+how long is the total lesson time taught by staff with first name as janessa and last name as sawayn ?
+what is the total time for all lessons taught by janessa sawayn ?
+what is average lesson price taught by staff with first name as janessa and last name as sawayn ?
+what is the average price for a lesson taught by janessa sawayn ?
+how many lesson does customer with first name ray took ?
+how many lessons did the customer with the first name ray take ?
+which last names are both used by customers and by staff ?
+what are the last names that are used by customers and staff ?
+what is the first name of the staff who did not give any lesson ?
+what is the first name of all employees who do not give any lessons ?
+what is the id and detail of the vehicle used in lessons for most of the times ?
+how many faculty do we have ?
+what is the total number of faculty members ?
+what ranks do we have for faculty ?
+find the list of distinct ranks for faculty .
+show all the distinct buildings that have faculty rooms .
+what buildings have faculty offices ?
+show the rank , first name , and last name for all the faculty .
+what are the rank , first name , and last name of the faculty members ?
+show the first name , last name , and phone number for all female faculty members .
+what are the first name , last name , and phone number of all the female faculty members ?
+show ids for all the male faculty .
+what are the faculty ids of all the male faculty members ?
+how many female professors do we have ?
+count the number of female professors we have .
+show the phone , room , and building for the faculty named jerry prince .
+what are the phone , room , and building of the faculty member called jerry prince ?
+how many professors are in building neb ?
+count the number of professors who have office in building neb .
+show the first name and last name for all the instructors .
+what are the first name and last name of all the instructors ?
+show all the buildings along with the number of faculty members the buildings have .
+how many faculty members does each building have ? list the result with the name of the building .
+which building has most faculty members ?
+find the building that has the largest number of faculty members .
+show all the buildings that have at least 10 professors .
+in which buildings are there at least ten professors ?
+for each faculty rank , show the number of faculty members who have it .
+how many faculty members do we have for each faculty rank ?
+show all the ranks and the number of male and female faculty for each rank .
+how many faculty members do we have for each rank and gender ?
+which rank has the smallest number of faculty members ?
+find the faculty rank that has the least members .
+show the number of male and female assistant professors .
+how many male and female assistant professors do we have ?
+what are the first name and last name of linda smith 's advisor ?
+who is the advisor of linda smith ? give me the first name and last name .
+show the ids of students whose advisors are professors .
+which students have professors as their advisors ? find their student ids .
+show first name and last name for all the students advised by michael goodrich .
+which students are advised by michael goodrich ? give me their first and last names .
+show the faculty id of each faculty member , along with the number of students he or she advises .
+what are the faculty id and the number of students each faculty has ?
+show all the faculty ranks and the number of students advised by each rank .
+how many students are advised by each rank of faculty ? list the rank and the number of students .
+what are the first and last name of the faculty who has the most students ?
+give me the the first and last name of the faculty who advises the most students .
+show the ids for all the faculty members who have at least 2 students .
+which faculty members advise two ore more students ? give me their faculty ids .
+show ids for the faculty members who do n't advise any student .
+what are the ids of the faculty members who do not advise any student .
+what activities do we have ?
+list all the activities we have .
+how many activities do we have ?
+find the number of activities available .
+how many faculty members participate in an activity ?
+give me the number of faculty members who participate in an activity
+show the ids of the faculty who do n't participate in any activity .
+which faculty do not participate in any activity ? find their faculty ids .
+show the ids of all the faculty members who participate in an activity and advise a student .
+what are ids of the faculty members who not only participate in an activity but also advise a student .
+how many activities does mark giuliano participate in ?
+find the number of activities mark giuliano is involved in .
+show the names of all the activities mark giuliano participates in .
+what are the names of the activities mark giuliano is involved in
+show the first and last name of all the faculty members who participated in some activity , together with the number of activities they participated in .
+what is the first and last name of the faculty members who participated in at least one activity ? for each of them , also show the number of activities they participated in .
+show all the activity names and the number of faculty involved in each activity .
+how many faculty members participate in each activity ? return the activity names and the number of faculty members .
+what is the first and last name of the faculty participating in the most activities ?
+find the first and last name of the faculty who is involved in the largest number of activities .
+what is the name of the activity that has the most faculty members involved in ?
+which activity has the most faculty members participating in ? find the activity name .
+show the ids of the students who do n't participate in any activity .
+what are the ids of the students who are not involved in any activity
+show the ids for all the students who participate in an activity and are under 20 .
+what are the ids of the students who are under 20 years old and are involved in at least one activity .
+what is the first and last name of the student participating in the most activities ?
+tell me the first and last name of the student who has the most activities .
+what is the name of the activity with the most students ?
+find the name of the activity that has the largest number of student participants .
+find the first names of the faculty members who are playing canoeing or kayaking .
+which faculty members are playing either canoeing or kayaking ? tell me their first names .
+find the first names of professors who are not playing canoeing or kayaking .
+what are the first names of the professors who do not play canoeing or kayaking as activities ?
+find the first names of the faculty members who participate in canoeing and kayaking .
+what are the first names of the faculty members playing both canoeing and kayaking ?
+find the ids of the students who participate in canoeing and kayaking .
+which students participate in both canoeing and kayaking as their activities ? tell me their student ids .
+find the name of the airport in the city of goroka .
+what are the names of the airports in the city of goroka ?
+find the name , city , country , and altitude ( or elevation ) of the airports in the city of new york .
+what is the name , city , country , and elevation for every airport in the city of new york ?
+how many airlines are there ?
+what is the total number of airlines ?
+how many airlines does russia has ?
+what is the number of airlines based in russia ?
+what is the maximum elevation of all airports in the country of iceland ?
+what is the highest elevation of an airport in the country of iceland ?
+find the name of the airports located in cuba or argentina .
+what are the names of all airports in cuba or argentina ?
+find the country of the airlines whose name starts with 'orbit' .
+what are the countries of all airlines whose names start with orbit ?
+find the name of airports whose altitude is between -50 and 50 .
+what are the names of all airports whose elevation is between -50 and 50 ?
+which country is the airport that has the highest altitude located in ?
+what is the country of the airport with the highest elevation ?
+find the number of airports whose name contain the word 'international' .
+how many airports' names have the word interanation in them ?
+how many different cities do have some airport in the country of greenland ?
+in how many cities are there airports in the country of greenland ?
+find the number of routes operated by american airlines .
+how many routes does american airlines operate ?
+find the number of routes whose destination airports are in canada .
+how many routes end in a canadian airport ?
+find the name , city , and country of the airport that has the lowest altitude .
+what is the name , city , and country of the airport with the lowest altitude ?
+find the name , city , and country of the airport that has the highest latitude .
+what is the name , city , and country of the airport with the highest elevation ?
+find the name and city of the airport which is the destination of the most number of routes .
+what is the name and city of the airport that the most routes end at ?
+find the names of the top 10 airlines that operate the most number of routes .
+for the airline ids with the top 10 most routes operated , what are their names ?
+find the name and city of the airport which is the source for the most number of flight routes .
+what is the name and city of the airport from most of the routes start ?
+find the number of different airports which are the destinations of the american airlines .
+what is the number of different different airports that are destinations for american airlines ?
+which countries has the most number of airlines ?
+what is the name of the country with the most number of home airlines ?
+which countries has the most number of airlines whose active status is 'y' ?
+what are the countries with the most airlines whose active status is y ?
+list all countries and their number of airlines in the descending order of number of airlines .
+how many airlines operate out of each country in descending order ?
+how many airports are there per country ? order the countries by decreasing number of airports .
+what is the number of airports per country , ordered from most to least ?
+how many airports are there per city in the united states ? order the cities by decreasing number of airports .
+how many airports are there per city in the us ordered from most to least ?
+return the cities with more than 3 airports in the united states .
+what is the number of cities in the united states with more than 3 airports ?
+how many cities are there that have more than 3 airports ?
+what is the count of cities with more than 3 airports ?
+list the cities which have more than one airport and number of airports .
+what are the names of all cities with more than one airport and how many airports do they have ?
+list the cities which have more than 2 airports sorted by the number of airports .
+what are the cities that have more than 2 airports sorted by number of airports ?
+find the number of routes for each source airport and the airport name .
+for each airport name , how many routes start at that airport ?
+find the number of routes and airport name for each source airport , order the results by decreasing number of routes .
+for each airport name , how many routes start at that airport , ordered from most to least ?
+find the average elevation of all airports for each country .
+for each country , what is the average elevation of that country 's airports ?
+find the cities which have exactly two airports .
+what are the cities with exactly two airports ?
+for each country and airline name , how many routes are there ?
+what is the total number of routes for each country and airline in that country ?
+find the number of routes with destination airports in italy .
+what is the number of routes whose destinations are italian airports ?
+return the number of routes with destination airport in italy operated by the airline with name 'american airlines' .
+what is the number of routes operated by the airline american airlines whose destinations are in italy ?
+find the number of routes that have destination john f kennedy international airport .
+what is the number of routes that end at john f kennedy international airport ?
+find the number of routes from the united states to canada .
+how many routes go from the united states to canada ?
+find the id of routes whose source and destination airports are in the united states .
+what is the id of the routes whose source and destination airports are in the united states ?
+find the name of airline which runs the most number of routes .
+what is the name of the airline with the most routes ?
+find the busiest source airport that runs most number of routes in china .
+what is the name of the airport with the most number of routes that start in china ?
+find the busiest destination airport that runs most number of routes in china .
+what is the name of the airport that is the destination of the most number of routes that start in china ?
+what is the id of the most recent order ?
+find the id of the order made most recently .
+what are the order id and customer id of the oldest order ?
+find the order id and customer id associated with the oldest order .
+find the id of the order whose shipment tracking number is "3452" .
+which order 's shipment tracking number is "3452" ? give me the id of the order .
+find the ids of all the order items whose product id is 11 .
+find all the order items whose product id is 11 . what are the order item ids ?
+list the name of all the distinct customers who have orders with status "packing" .
+which customers have orders with status "packing" ? give me the customer names .
+find the details of all the distinct customers who have orders with status "on road" .
+what are the distinct customers who have orders with status "on road" ? give me the customer details ?
+what is the name of the customer who has the most orders ?
+which customer made the most orders ? find the customer name .
+what is the customer id of the customer who has the most orders ?
+find the id of the customer who made the most orders .
+give me a list of id and status of orders which belong to the customer named "jeramie" .
+which orders are made by the customer named "jeramie" ? give me the order ids and status .
+find the dates of orders which belong to the customer named "jeramie" .
+what are the dates of the orders made by the customer named "jeramie" ?
+give me the names of customers who have placed orders between 2009-01-01 and 2010-01-01 .
+which customers made orders between 2009-01-01 and 2010-01-01 ? find their names .
+give me a list of distinct product ids from orders placed between 1975-01-01 and 1976-01-01 ?
+what are the distinct ids of products ordered between 1975-01-01 and 1976-01-01 ? ?
+find the names of the customers who have order status both "on road" and "shipped" .
+which customers have both "on road" and "shipped" as order status ? list the customer names .
+find the id of the customers who have order status both "on road" and "shipped" .
+which customers have both "on road" and "shipped" as order status ? list the customer ids .
+when was the order placed whose shipment tracking number is 3452 ? give me the date .
+on which day was the order placed whose shipment tracking number is 3452 ?
+what is the placement date of the order whose invoice number is 10 ?
+on what day was the order with invoice number 10 placed ?
+list the count and id of each product in all the orders .
+for each product , return its id and the number of times it was ordered .
+list the name and count of each product in all orders .
+for each product , show its name and the number of times it was ordered .
+find the ids of orders which are shipped after 2000-01-01 .
+which orders have shipment after 2000-01-01 ? give me the order ids .
+find the id of the order which is shipped most recently .
+which order has the most recent shipment ? give me the order id .
+list the names of all distinct products in alphabetical order .
+sort all the distinct products in alphabetical order .
+list the ids of all distinct orders ordered by placed date .
+what are ids of the all distinct orders , sorted by placement date ?
+what is the id of the order which has the most items ?
+which order deals with the most items ? return the order id .
+what is the name of the customer who has the largest number of orders ?
+find the name of the customer who made the most orders .
+find the invoice numbers which are created before 1989-09-03 or after 2007-12-25 .
+what are the invoice numbers created before 1989-09-03 or after 2007-12-25 ?
+find the distinct details of invoices which are created before 1989-09-03 or after 2007-12-25 .
+what are the distinct details of invoices created before 1989-09-03 or after 2007-12-25 ?
+for each customer who has at least two orders , find the customer name and number of orders made .
+which customers have made at least two orders ? give me each customer name and number of orders made .
+find the name of the customers who have at most two orders .
+what are the names of the customers who have made two or less orders ?
+list the names of the customers who have once bought product "food" .
+what are the names of the customers who bought product "food" at least once ?
+list the names of customers who have once canceled the purchase of the product "food" ( the item status is "cancel" ) .
+which customers have ever canceled the purchase of the product "food" ( the item status is "cancel" ) ?
+how many architects are female ?
+list the name , nationality and id of all male architects ordered by their names lexicographically .
+what is the maximum length in meters for the bridges and what are the architects' names ?
+what is the average length in feet of the bridges ?
+what are the names and year of construction for the mills of 'grondzeiler' type ?
+what are the distinct names and nationalities of the architects who have ever built a mill ?
+what are the names of the mills which are not located in 'donceel' ?
+what are the distinct types of mills that are built by american or canadian architects ?
+what are the ids and names of the architects who built at least 3 bridges ?
+what is the id , name and nationality of the architect who built most mills ?
+what are the ids , names and genders of the architects who built two bridges or one mill ?
+what is the location of the bridge named 'kolob arch' or 'rainbow bridge' ?
+which of the mill names contains the french word 'moulin' ?
+what are the distinct name of the mills built by the architects who have also built a bridge longer than 80 meters ?
+what is the most common mill type , and how many are there ?
+how many architects have n't built a mill before year 1850 ?
+show the name of all bridges that was designed by american archtect , and sort the result by the bridge feet length .
+how many book clubs are there ?
+count the number of book clubs .
+show the titles , and authors or editors for all books made after the year 1989 .
+what are the titles and authors or editors that correspond to books made after 1989 ?
+show all distinct publishers for books .
+what are all the different book publishers ?
+show the years , book titles , and publishers for all books , in descending order by year .
+what are the years , titles , and publishers for all books , ordered by year descending ?
+show all publishers and the number of books for each publisher .
+how many books are there for each publisher ?
+what is the publisher with most number of books ?
+return the publisher that has published the most books .
+show all book categories and the number of books in each category .
+how many books fall into each category ?
+list categories that have at least two books after year 1989 .
+what categories have two or more corresponding books that were made after 1989 ?
+show publishers with a book published in 1989 and a book in 1990 .
+what are the publishers who have published a book in both 1989 and 1990 ?
+show all publishers which do not have a book in 1989 .
+which publishers did not publish a book in 1989 ?
+show all movie titles , years , and directors , ordered by budget .
+what are the titles , years , and directors of all movies , ordered by budget in millions ?
+how many movie directors are there ?
+count the number of different directors .
+what is the title and director for the movie with highest worldwide gross in the year 2000 or before ?
+return the title and director of the movie released in the year 2000 or earlier that had the highest worldwide gross .
+show all director names who have a movie in both year 1999 and 2000 .
+which directors had a movie both in the year 1999 and 2000 ?
+show all director names who have a movie in the year 1999 or 2000 .
+which directors had a movie in either 1999 or 2000 ?
+what is the average , maximum , and minimum budget for all movies before 2000 .
+return the average , maximum , and minimum budgets in millions for movies made before the year 2000 .
+list all company names with a book published by alyson .
+what are all the company names that have a book published by alyson ?
+show the movie titles and book titles for all companies in china .
+what are the titles of movies and books corresponding to companies incorporated in china ?
+show all company names with a movie directed in year 1999 .
+what are all company names that have a corresponding movie directed in the year 1999 ?
