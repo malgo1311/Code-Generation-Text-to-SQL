@@ -1,6 +1,6 @@
-# TextToSQL_AdvNLP
+# TEXT-to-SQL
 
-Team Members: Aishwarya, Atharva, Dishank, Mrunal
+Course/Prof: CS 685 Advanced NLP / Mohit Iyyer
 
 ### Install Dependencies
 
